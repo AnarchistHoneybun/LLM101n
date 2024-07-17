@@ -1,7 +1,7 @@
 # LLM101n: Let's build a Storyteller
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> **Update June 25.** To clarify, the course will take some time to build. There is no specific timeline. Thank you for your interest but please do not submit Issues/PRs.
 
 ![LLM101n header image](llm101n.jpg)
 
